@@ -43,4 +43,4 @@ Zettelkasten sounds like a complicated German philosophical concept but it simpl
 ## License
 Apache 2.0 &copy; 2020 [Abhinay Thakur](https://thisisabhinay.com). 
 
-[Licence File](hhttps://github.com/zetteldrive/zetteldrive-frontend/blob/master/LICENSE)
+[Licence File](https://github.com/zetteldrive/zetteldrive-frontend/blob/master/LICENSE)
