@@ -1,68 +1,41 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Zettel Drive's Frontend
 
-## Available Scripts
+![Banner](public/media/zetteldrive_banner.png)
 
-In the project directory, you can run:
+**Frontend of Zettel Drive app build upon Progressive Web Architecture (PWA).**
 
-### `npm start`
+---
+## Motivation
+To create a no brains zettelkasten app which doesn't require you to store your lifetime of notes on service provider's servers.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+The question that motivated this project was:
+> What will happen to my notes I spent lifetime making if the app shuts down tomorrow?
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+The possible solution is to create an app with frontend only that let you interact with your notes like any traditional note taking/zettelkasten app does. All your data is therefore stored on your personal cloud, therefore is available to you in raw format anytime, anywhere.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Build Status
+![Build Status](https://img.shields.io/badge/Build-Pending-orange)
+![Version](https://img.shields.io/static/v1?label=Version&message=0.0-alpha.1&color=blue)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Code Style
+![Code Style](https://img.shields.io/static/v1?label=Code%20Style&message=Standard&color=success)
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+**Horizontal indents:** 4 spaces.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Tech/Framework Used
 
-### `npm run eject`
+### Frameworks/Libraries
+![React](https://img.shields.io/static/v1?label=React&message=16.13.1&color=green)
+![Node](https://img.shields.io/static/v1?label=Node&message=12.13.0&color=green)
+![npm](https://img.shields.io/static/v1?label=npm&message=6.12.0&color=green)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Tech stack
+![HTML](https://img.shields.io/static/v1?label=HTML&message=5.0&color=green)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## License
+Apache 2.0 &copy; 2020 [Abhinay Thakur](https://thisisabhinay.com). 
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+[Licence File](hhttps://github.com/zetteldrive/zetteldrive-frontend/blob/master/LICENSE)
