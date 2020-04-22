@@ -13,7 +13,12 @@ The question that motivated this project was:
 
 The possible solution is to create an app with frontend only that let you interact with your notes like any traditional note taking/zettelkasten app does. All your data is therefore stored on your personal cloud, therefore is available to you in raw format anytime, anywhere.
 
+## What is Zettelkasten, btw?
+Zettelkasten sounds like a complicated German philosophical concept but it simply means “box of notes.” Zettelkasten is a system to manage our knowledge in form of interconnected notes.
 
+**Further Readings:**
+- [The Zettelksten Method by Less Wrong](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1)
+- [How to take smart notes by Sönke Ahrens](https://takesmartnotes.com/)
 
 ## Build Status
 ![Build Status](https://img.shields.io/badge/Build-Pending-orange)
