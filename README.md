@@ -6,12 +6,12 @@
 
 ---
 ## Motivation
-To create a no brains zettelkasten app which doesn't require you to store your lifetime of notes on service provider's servers.
+To create a no brains zettelkasten app which doesn't require you to store your "lifetime of notes" on service provider's servers.
 
 The question that motivated this project was:
-> What will happen to my notes I spent lifetime making if the app shuts down tomorrow?
+> What will happen to my notes (I spent lifetime making) if the app shuts down tomorrow?
 
-The possible solution is to create an app with frontend only that let you interact with your notes like any traditional note taking/zettelkasten app does. All your data is therefore stored on your personal cloud, therefore is available to you in raw format anytime, anywhere.
+The possible solution is to create an app with frontend only that let you interact with your notes like any traditional note taking/zettelkasten app does. All your data is therefore stored on your personal cloud, and is available to you in raw format anytime, anywhere.
 
 ## What is Zettelkasten, btw?
 Zettelkasten sounds like a complicated German philosophical concept but it simply means “box of notes.” Zettelkasten is a system to manage our knowledge in form of interconnected notes.
